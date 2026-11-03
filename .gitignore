@@ -1,0 +1,11 @@
+node_modules
+dist
+*.log
+*.pid
+*.out
+.agents
+.codeartsdoer
+sts-creds.json
+sts-creds.sh
+.DS_Store
+Thumbs.db
